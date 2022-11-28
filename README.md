@@ -10,6 +10,7 @@
 <br>
 
 ### 기술스택
+<p align="center">
 <img src="https://img.shields.io/badge/java-40AEF0?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -19,7 +20,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-40AEF0?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-
+</p>
 <br>
 
 ### 서비스 소개
