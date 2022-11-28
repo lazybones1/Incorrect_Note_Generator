@@ -1,6 +1,6 @@
 # Incorrect_Note_Generator
 교과목명 : 2020학년도 2학기 고급웹프로그래밍   
-과제 : Incorrect Note Generator
+과제 : Incorrect Note Generator   
 인원 : 김진산, 강지웅, 이주형, 신영환, 이재욱   
 
 <br>
